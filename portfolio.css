@@ -1,0 +1,15 @@
+body{
+    
+    padding: 0;
+    margin: 0;
+}
+.text{
+    position: relative;
+}
+.heading{
+    position: absolute;
+    top: 35%;
+    left: 27%;
+    font-size: 80px;
+    
+}
